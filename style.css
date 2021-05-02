@@ -1,0 +1,17 @@
+.header-a{
+    color: orangered;
+}
+li{
+    list-style-type: none;
+}
+.nav-item{
+    color: orangered;
+}
+a{
+    text-decoration: none;
+}
+.items-header{
+    text-align: center;
+    color: orangered;
+
+}
